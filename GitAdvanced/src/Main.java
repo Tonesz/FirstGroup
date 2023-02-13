@@ -8,6 +8,7 @@ public class Main {
         System.out.println(future2);
 
     }
+
     public static void count(String parameter) {
         System.out.println("Counting the countless " + parameter);
 

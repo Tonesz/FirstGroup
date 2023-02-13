@@ -9,17 +9,24 @@ public class Main {
         future("Scorpio", "cancer");
     }
 
+    public void future(String parameter) {
+        System.out.println("Your future looks like " + parameter);
+
+
+    }
+
     public static void count(String parameter) {
         System.out.println("Counting the countless " + parameter);
     }
 
-    public static void greet(String name, String lastName) {
-        System.out.println(name + lastName);
+    public static void greet(String parameter) {
+        System.out.println("Greetings for the" + parameter);
     }
 
-    public static void cheer(String name) {
-        System.out.println("Go " + name + "go!");
+    public static void cheer(String parameter) {
+        System.out.println("Cheer for the " + parameter);
 
     }
 }
+
 

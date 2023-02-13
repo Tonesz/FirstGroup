@@ -3,9 +3,9 @@ public class Main {
     public static void main(String[] args) {
 
     }
-    public void future(String future1, String future2){
-        System.out.println(future1 + ", " + future2);
-        future("Scorpio", "cancer");
+    public void future(String parameter){
+        System.out.println("Your future looks like " +parameter);
+
     }
 
     public static void twoParam(String first, String second) {

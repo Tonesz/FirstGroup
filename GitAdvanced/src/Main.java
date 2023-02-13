@@ -17,8 +17,8 @@ public class Main {
         System.out.println(name + lastName);
     }
 
-    public static void cheer(String name) {
-        System.out.println("Go " + name + "go!");
+    public static void cheer(String parameter) {
+        System.out.println("Cheer for the " + parameter);
 
     }
 }

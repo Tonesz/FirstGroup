@@ -21,3 +21,4 @@ public class Main {
         System.out.println("Go " + name + "go!");
 
     }
+}

@@ -3,9 +3,8 @@ public class Main {
     public static void main(String[] args) {
 
     }
-
-    public void future(String future2) {
-        System.out.println(future2);
+    public void future(String parameter) {
+        System.out.println("Your future looks like: " +parameter);
 
     }
     public static void count(String parameter) {

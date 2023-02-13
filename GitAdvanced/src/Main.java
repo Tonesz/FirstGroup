@@ -1,5 +1,11 @@
 public class Main {
+
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+    }
+
+    public static void twoParam(String first, String second) {
+        System.out.println("First param: " + first);
+        System.out.println("Second param: " + second);
     }
 }

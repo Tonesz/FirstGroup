@@ -9,11 +9,7 @@ public class Main {
         future("Scorpio", "cancer");
     }
 
-    public void future(String parameter) {
-        System.out.println("Your future looks like " + parameter);
-
-
-    }
+    
 
     public static void count(String parameter) {
         System.out.println("Counting the countless " + parameter);

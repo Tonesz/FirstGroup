@@ -6,4 +6,6 @@ public class Main {
     public static void cheer(String name) {
         System.out.println("Go " + name + "go!");
     }
+
+
 }

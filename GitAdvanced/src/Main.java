@@ -8,4 +8,13 @@ public class Main {
         System.out.println("First param: " + first);
         System.out.println("Second param: " + second);
     }
+
+    public static void greet(String name, String lastName) {
+        System.out.println(name + lastName);
+    }
+
+    public static void cheer(String name) {
+        System.out.println("Go " + name + "go!");
+
+    }
 }

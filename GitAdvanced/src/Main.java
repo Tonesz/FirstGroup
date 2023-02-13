@@ -9,8 +9,8 @@ public class Main {
         System.out.println("Second param: " + second);
     }
 
-    public static void greet(String name, String lastName) {
-        System.out.println(name + lastName);
+    public static void greet(String parameter) {
+        System.out.println("Greetings for the" + parameter);
     }
 
     public static void cheer(String name) {

@@ -7,7 +7,6 @@ public class Main {
         System.out.println("Your future looks like " +parameter);
 
     }
-
     public static void twoParam(String first, String second) {
         System.out.println("First param: " + first);
         System.out.println("Second param: " + second);
